@@ -1,0 +1,3 @@
+requests
+reverse-geocode
+nextcord
